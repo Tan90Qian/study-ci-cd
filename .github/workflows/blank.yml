@@ -22,7 +22,7 @@ jobs:
     steps:
     - name: yarn install,build and test
       run: |
-        yarn install
+        yarn
         yarn build
         yarn test
 
