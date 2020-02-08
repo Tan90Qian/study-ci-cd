@@ -13,5 +13,7 @@ yarn-error.log
 .idea
 *bak
 
+dist
+
 # visual studio code 
 .history
